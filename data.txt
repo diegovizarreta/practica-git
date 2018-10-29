@@ -1,0 +1,3 @@
+Name: Diego Vizarreta
+Age: 25
+Favorite Color: Azul
